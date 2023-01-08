@@ -146,6 +146,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="constants.h" />
+    <ClInclude Include="direction.h" />
     <ClInclude Include="file_reader.h" />
     <ClInclude Include="filter.h" />
     <ClInclude Include="Header.h" />
