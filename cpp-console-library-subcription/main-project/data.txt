@@ -8,7 +8,6 @@
 13.06 East 5.3
 15.06 East 3.1
 17.06 SouthEast 1.0
-19.06 SouthEast 3.4
 21.06 South 2.0
 23.06 South 5.6
 25.06 SouthWest 6.7
