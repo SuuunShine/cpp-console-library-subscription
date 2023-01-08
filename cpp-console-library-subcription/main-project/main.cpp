@@ -43,10 +43,10 @@ int main()
 {
 
     setlocale(LC_ALL, "Russian");
-    cout << "  9. GIT\n";
-    cout << " 6.  \n";
-    cout << ":  \n\n";
-    cout << ": 11\n";
+    cout << "Laboratory work #9. GIT\n";
+    cout << "Variant #9\n";
+    cout << "Author: Levshicky Dmitry\n";
+    cout << "Group: 11\n";
     wind* Wind[MAX_FILE_ROWS_COUNT];
     int size;
 
@@ -129,10 +129,7 @@ int main()
     }
 
 
-    cout << "Laboratory work #9. GIT\n";
-    cout << "Variant #9\n";
-    cout << "Author: Levshicky Dmitry\n";
-    cout << "Group: 11\n";
+    
 
     return 0;
 }
