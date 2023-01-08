@@ -47,7 +47,8 @@ int main()
     cout << " 6.  \n";
     cout << ":  \n\n";
     cout << ": 11\n";
-    wind* Wind[MAX_FILE_ROWS_COUT];
+    wind* Wind[MAX_FILE_ROWS_COUNT];
+    wind* Wind[MAX_FILE_ROWS_COUNT];
     int size;
 
     try
